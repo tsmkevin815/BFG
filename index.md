@@ -6,8 +6,8 @@
 
 Những tài khoản có dạng như sau sẽ <strong>KHÔNG</strong> được phép tham gia nhóm:
 
-* Tài khoản không có ảnh đại diện
-* Tài khoản không có tên hiển thị hoặc tên chứa quá nhiều kí tự đặc biệt (bằng trick)
+* Tài khoản không có ảnh đại diện hoặc ảnh đại diện màu đơn sắc.
+* Tài khoản không có tên hiển thị hoặc tên chứa quá nhiều kí tự đặc biệt (bằng trick).
 
 <strong>Đặc biệt chú ý:</strong> Bất cứ ai chặn (block) thành viên trong Ban Quản Trị sẽ bị chặn khỏi nhóm.
 
